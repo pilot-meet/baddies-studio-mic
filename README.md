@@ -12,7 +12,7 @@ It's about the mindset of an engineer:
 Don't just buy it. Understand it. Build it. Learn from it. Improve it.
 And honestly, that's what makes this project special to me.
 
-# How does Bardy Studio Mic work?
+# How does Baddies Studio Mic work?
 Voice
   ↓
 Microphone
