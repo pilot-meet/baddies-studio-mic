@@ -1,4 +1,4 @@
-# baddies-studio-mic
+# Baddies-studio-mic
 A DIY portable studio microphone built using ESP32-C6, ICS-43434 MEMS microphone, SD card recording and custom electronics. It can record audio, save the recording as a WAV file and make the recordings accessible through a web interface.
 
 # Why I Built This
